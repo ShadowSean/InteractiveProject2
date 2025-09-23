@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
+
     [Header("Movement")]
 
     public float moveSpeed;
@@ -21,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     [Header("GroundCheck")]
     public float playerHeight;
     public LayerMask whatIsGround;
-    bool grounded;
+    public bool grounded;
 
     public Transform orientation;
 
@@ -97,7 +99,7 @@ public class PlayerMovement : MonoBehaviour
     void Jump()
     {
         // reset y velocity
-        rb.linearVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.y);
+        //rb.linearVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.y);
 
         rb.AddForce(transform.up * jumpForce, ForceMode.Impulse);
     }
@@ -106,4 +108,6 @@ public class PlayerMovement : MonoBehaviour
     {
         readyJump = true;
     }
+
+   
 }
