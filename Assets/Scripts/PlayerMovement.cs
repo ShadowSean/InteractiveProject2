@@ -96,7 +96,7 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    void Jump()
+    public void Jump()
     {
         // reset y velocity
         //rb.linearVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.y);

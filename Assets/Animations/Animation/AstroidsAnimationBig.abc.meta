@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 3b5adb7ef3b8af349855758a03a24ccb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_001/Sphere_001_cell_082:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_002/Sphere_001_cell_001:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_004/Sphere_001_cell_002:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_005/Sphere_001_cell_003:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_006/Sphere_001_cell_004:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_008/Sphere_001_cell_005:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_010/Sphere_001_cell_006:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_012/Sphere_001_cell_007:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_013/Sphere_001_cell_008:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_014/Sphere_001_cell_009:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_015/Sphere_001_cell_010:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_017/Sphere_001_cell_011:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_018/Sphere_001_cell_012:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_019/Sphere_001_cell_013:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_020/Sphere_001_cell_014:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_022/Sphere_001_cell_015:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_023/Sphere_001_cell_016:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_024/Sphere_001_cell_017:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_025/Sphere_001_cell_018:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_026/Sphere_001_cell_019:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_027/Sphere_001_cell_020:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_028/Sphere_001_cell_021:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_030/Sphere_001_cell_022:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_031/Sphere_001_cell_023:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_032/Sphere_001_cell_024:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_034/Sphere_001_cell_025:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_036/Sphere_001_cell_026:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_039/Sphere_001_cell_027:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_040/Sphere_001_cell_028:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_042/Sphere_001_cell_029:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_043/Sphere_001_cell_030:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_044/Sphere_001_cell_031:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_046/Sphere_001_cell_032:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_048/Sphere_001_cell_033:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_049/Sphere_001_cell_034:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_051/Sphere_001_cell_035:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_052/Sphere_001_cell_036:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_054/Sphere_001_cell_037:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_055/Sphere_001_cell_038:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_056/Sphere_001_cell_039:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_057/Sphere_001_cell_040:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_058/Sphere_001_cell_041:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_059/Sphere_001_cell_042:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_060/Sphere_001_cell_043:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_061/Sphere_001_cell_044:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_064/Sphere_001_cell_045:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_065/Sphere_001_cell_046:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_066/Sphere_001_cell_047:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_069/Sphere_001_cell_048:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_070/Sphere_001_cell_049:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_071/Sphere_001_cell_050:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_072/Sphere_001_cell_051:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_075/Sphere_001_cell_052:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_076/Sphere_001_cell_053:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_078/Sphere_001_cell_054:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_080/Sphere_001_cell_055:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Sphere_001_cell_081/Sphere_001_cell_056:000:'
+    second: {fileID: 2100000, guid: 80bad92e38f30a04f98219fec6dc9d35, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  rootGameObjectId: 
+  rootGameObjectName: 
+  importerVersion: 1
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    importVisibility: 1
+    scaleFactor: 0.01
+    swapHandedness: 1
+    flipFaces: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 1
+    importMeshes: 1
+    importPoints: 0
+    importCurves: 1
+    createCurveRenderers: 0
+  abcStartTime: 0.041666666666666664
+  abcEndTime: 3.333333333333333
+  startTime: 0.041666666666666664
+  endTime: 3.333333333333333
+  importWarning: 
+  firstImport: 0
+  isHDF5: 0
