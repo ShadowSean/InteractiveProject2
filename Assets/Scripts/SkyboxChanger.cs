@@ -23,6 +23,6 @@ public class SkyboxChanger : MonoBehaviour
         skyboxMaterial.SetColor("_Tint",c); 
         lighting.color = c;
 
-        // RenderSettings.skybox = skyboxMaterial;
+        RenderSettings.skybox = skyboxMaterial;
     }
 }
